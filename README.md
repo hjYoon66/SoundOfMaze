@@ -22,3 +22,6 @@
 <img src = "https://github.com/hjYoon66/SoundOfMaze/assets/101798354/83e19d31-a18d-4491-8ddd-11844fe00d0e" width="60%" height="60%">
 <img src = "https://github.com/hjYoon66/SoundOfMaze/assets/101798354/5d2b446d-287c-41ce-bd18-d0c80af8c6bc" width="60%" height="60%">
 <img src = "https://github.com/hjYoon66/SoundOfMaze/assets/101798354/bfccc977-bc69-42ec-a704-afc20236af79" width="60%" height="60%">
+
+## 느낀점 🎤
+* 처음으로 Arduino Uno와 App Inventor를 사용하여 하드웨어를 다룰 수 있는 경험을 한 프로젝트. 이 과정에서 블루투스 통신, 배열을 통한 미로 게임 생성, 블록 코딩 등 다양한 경험을 쌓을 수 있었던 프로젝트. 첫 팀 프로젝트로 협업의 중요성을 알게된 프로젝트
